@@ -1,0 +1,1031 @@
+.neo-main-width {
+    max-width: 70rem;
+    margin: auto !important;
+}
+
+.map {
+    border: none;
+    width: 100%;
+    height: 100%;
+}
+
+#summaryICS {
+    width: 100%;
+}
+
+
+
+.boldEvent {
+    font-weight: bold;
+    font-size: 17px;
+}
+
+
+
+.h2 {
+    display: none;
+}
+
+
+
+.fontColorWhite {
+    color: white;
+}
+
+
+
+.imgEvents {
+    vertical-align: middle;
+    border-style: none;
+    width: 100%;
+    height: auto;
+}
+
+
+
+.containerImgEvents {
+    height: 195px;
+    overflow: hidden;
+    padding: 0;
+    border-radius: 3px;
+}
+
+
+
+.containerDataEvents {
+    padding-left: 30px;
+    padding-right: 0;
+}
+
+
+
+.spacingTopEvent {
+    padding-top: 60px;
+}
+
+
+
+.spacingEvent {
+    padding-bottom: 60px;
+}
+
+
+
+.spacingMarginEvent {
+    margin-bottom: 60px;
+}
+
+
+
+.titleEvent {
+    font-weight: bold;
+}
+
+
+
+.containerDateLocationEvent {
+    padding: 0 0 30px 0;
+}
+
+
+
+.containerDateLocationEvent i {
+    font-weight: bold;
+    top: 1px;
+    position: relative;
+    padding-right: 6px;
+}
+
+
+
+.iconCalendar {
+    font-size: 18px;
+}
+
+
+
+.iconLocation {
+    font-size: 22px;
+}
+
+
+
+.dateEvent {
+    padding-right: 15px;
+}
+
+
+
+.containerIntroEvent {
+    padding-bottom: 10px;
+}
+
+
+
+.containerReadMoreEvent {
+    float: right;
+    font-weight: bold;
+    color: black;
+}
+
+
+
+.containerReadMoreEvent a {
+    color: black;
+}
+
+
+
+.fontColorevent {
+    color: black;
+}
+
+
+
+.containerReadMoreEvent a i {
+    color: black;
+    padding-left: 10px;
+}
+
+.containerFirstEventDetail {
+    margin-bottom: 65px;
+    height: 730px;
+    position: relative;
+    background-size: cover !important;
+    background-position: center center !important;
+}
+
+
+
+.firstEvent {
+    margin: 160px 0 0 42%;
+    width: 50%;
+    position: absolute;
+}
+
+
+
+.containerLogoEvent {
+    width: 300px;
+    padding-bottom: 15px;
+}
+
+
+
+.containerLogoEvent img {
+    width: 100%;
+}
+
+
+
+.containerTitleLogoEvent {
+    padding-bottom: 15px;
+    border-bottom: 1px solid white;
+    margin-bottom: 20px;
+}
+
+
+
+.contentEmbebidoTrendingTitle {
+    font-size: 18px;
+    margin: 0px;
+}
+
+
+
+.contentEmbebidoTrending p {
+    padding-bottom: 5px;
+    margin: 0px;
+}
+
+
+
+.btnEvent {
+    background-color: transparent;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 3px;
+    border: 1px solid white;
+}
+
+
+
+.scheduleInformationEvent {
+    padding: 0 0 0 30px;
+}
+
+
+
+.scheduleInformationMapEvent {
+    padding: 35px 30px;
+    height: 100%;
+}
+
+
+
+.descriptionEvemt {
+    padding: 0 30px 0 0;
+}
+
+
+
+.titleDetailEvent {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+
+.iconScheduleInformationEvent {
+    width: 30px;
+    display: inline-block;
+}
+
+.resgisterEvent {
+    width: 100%;
+    border-radius: 3px;
+    background: #2274C2;
+    padding: 16px;
+    border: none;
+    font-size: 15px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.07;
+    letter-spacing: normal;
+    text-align: center;
+    color: #ffffff;
+}
+
+
+
+.resgisterEvent a {
+    color: white;
+}
+
+
+
+.containerScheduleInformationEvent {
+    display: flex;
+    padding-bottom: 15px;
+}
+
+.adToCalendar {
+    font-size: 16px;
+    text-decoration: none;
+    cursor: pointer;
+    font-weight: bold;
+    color: #1b69d7 !important;
+}
+
+
+
+.containerDocumentsAndSocial {
+    margin-top: 20px;
+}
+
+
+
+.containerDocumentsAndSocialMap {
+    bottom: 0px;
+    position: relative;
+    width: 100%;
+    left: 0;
+    margin: 30px 0px;
+    border-top: 1px solid lightgrey;
+    max-width: 248px;
+}
+
+
+
+.containerDocumentsAndSocialMap .shareMapDetailEvent {
+    padding-top: 12px;
+}
+
+.containerSocialMediaDetailEvent {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.containerSocialMediaDetailEvent li {
+    display: inline-block;
+    font-size: 20px;
+    padding-right: 10px;
+}
+
+
+
+.containerSocialMediaDetailEvent li a i {
+    padding-right: 15px;
+}
+
+
+
+.iconDownloadFileEvent {
+    font-size: 22px;
+    top: 2px;
+    position: relative;
+    padding-right: 7px;
+}
+
+#mediaVideoEvent video {
+    width: 100%;
+}
+
+.containerSpeakerDetailEvent {
+    display: flex;
+}
+
+
+
+.alignCenter {
+    text-align: center;
+}
+
+
+
+.titleSpeaker {
+    margin-bottom: 40px;
+}
+
+
+
+.infoSpeakerEvent {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    padding-left: 75px;
+}
+
+
+
+.imgSpeaker {
+    width: 50%;
+}
+
+
+
+.jobLocationSpeakerEvent {
+    font-size: 12px;
+}
+
+
+
+.iconLocationSpeaker {
+    font-size: 16px;
+    top: 1px;
+    position: relative;
+}
+
+
+
+.topicNoSelectedEvent {
+    margin: 0;
+    padding: 10px;
+    border-left: 2px solid white;
+    background-color: white;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #1b69d7;
+}
+
+
+
+.topicNoSelectedEvent:hover {
+    margin: 0;
+    padding: 10px;
+    border-left: 2px solid #f2f3f3;
+    background-color: #f2f3f3;
+    color: #1B69D7;
+}
+
+.topicSelectedEvent {
+    margin: 0;
+    padding: 10px;
+    border-left: 2px solid #1b69d7;
+    background-color: #F2F3F3;
+    font-size: 14px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.contTopicEvnt p {
+    margin: 0px;
+}
+
+
+
+.textContainerTopicsEvent {
+    padding: 70px 35px;
+    color: white;
+}
+
+.textContainerTopicsEvent h3 {
+    margin-bottom: 15px;
+}
+
+
+
+.spacinAutoQuotes {
+    max-width: 55em;
+    margin: auto;
+    display: flex;
+}
+
+
+
+.spacinAutoQuotes p {
+    margin: 0;
+}
+
+
+
+.spacinAutoImgQuotes {
+    padding-right: 15px;
+}
+
+
+
+.spacinAutoImgQuotes img {
+    border-radius: 35px;
+}
+
+
+
+.containerQuoteAutor {
+    border-left: 4px solid #1b69d7;
+    padding-left: 18px;
+    margin-bottom: 15px;
+}
+
+
+
+.containerQuoteAutor p {
+    background-image: linear-gradient(99deg, #3281e1, #61cbe8 47%, #ffffff);
+    font-family: Times;
+    font-size: 18px;
+    font-weight: normal;
+    font-style: italic;
+    font-stretch: normal;
+    line-height: 1.33;
+    letter-spacing: normal;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+
+.containerQuote {
+    padding: 25px 0;
+}
+
+
+
+.mapLocationDetailEvent {
+    padding: 0;
+    height: 500px;
+}
+
+
+
+.taglib-social-bookmarks {
+    display: none;
+}
+
+.containerImgGallery {
+    padding: 10px 10px 10px 10px;
+}
+
+
+
+.containerImgGallery img {
+    width: 100%;
+}
+
+
+
+.containerGalleryEvent {
+    width: 70%;
+}
+
+
+
+.watermarkGalleryEvent {
+    padding: 60px 0;
+    background-color: #F9F9F9 !important;
+    background-repeat: no-repeat !important;
+    background-position-y: -100px !important;
+}
+
+
+
+.eventsRelated {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.eventsRelated div {
+    flex: 0 0 31.333333%;
+    padding: 0;
+}
+
+
+
+.titleRelatedEvents {
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.Join-us-at {
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+
+
+.titleEvent {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.15;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.subTitle {
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.subTitleGallery {
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.1;
+    letter-spacing: normal;
+    color: #131313;
+}
+
+
+
+.titleOtherEvents {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.titleInfoEvent {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.containerTitleEventRelated {
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.titleEventRelated {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.titleEventRelated a {
+    color: #000000;
+}
+
+
+
+.nameSpeaker {
+    margin-bottom: 0px !important;
+    font-size: 24px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.positionSpeaker {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    color: #5f6569;
+}
+
+
+
+.descriptionSpeaker {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #131313;
+}
+
+
+
+.elementsTopics {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    color: #1b69d7;
+}
+
+
+
+.topicTitleEvent {
+    padding-bottom: 15px;
+    font-size: 32px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+
+
+.descriptionTopicEvent {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+
+
+.descriptionGallerySpeaker {
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    color: #131313;
+}
+
+
+
+.autorQuoteEvent {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.38;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.positionQuoteEvent {
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.14;
+    letter-spacing: normal;
+    color: #5f6569;
+}
+
+
+
+.titleMapEvent {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.infoRightEventDetail {
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.22;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+
+
+.infoTopEventDetail {
+    font-size: 24px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    color: #ffffff;
+}
+
+
+
+.backgroundWatermarkFirst {
+    background-repeat: no-repeat !important;
+    background-position-y: -103px !important;
+}
+
+
+
+.speakerEvent {
+    background-repeat: no-repeat !important;
+    background-position-y: -360px !important;
+    background-position-x: -183px !important;
+}
+
+
+
+.backgroundOpacitySpeakerDetail {
+    background-color: rgba(250, 250, 250, 0.9);
+}
+
+
+
+.backgroundOpacitySpeakerFirstDetail {
+    background-color: rgba(255, 255, 255, 0.9);
+}
+
+
+
+.mapWatermarkEventDetail {
+    background-repeat: no-repeat !important;
+    background-position: center !important;
+    background-size: cover !important;
+}
+
+
+
+.shareMapDetailEvent {
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+    padding-right: 20px !important;
+}
+
+@media screen and (max-width: 1175px) {
+    .containerSocialMediaDetailEvent li {
+        padding-right: 0px;
+    }
+
+
+
+    .shareMapDetailEvent {
+        padding-right: 15px !important;
+    }
+}
+
+@media screen and (max-width: 994px) {
+    .containerDocumentsAndSocialMap {
+        position: inherit;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .firstEvent {
+        display: none;
+    }
+
+
+
+    .detailMovile {
+        display: block;
+        margin: 0px 20px 0px;
+        color: white !important;
+        padding-top: 35px;
+    }
+
+    .detailMovile button a {
+        color: white !important;
+    }
+
+    .detailMovile button {
+        border: solid 3px white !important;
+        background: transparent;
+    }
+
+    .containerFirstEventDetail {
+        height: auto !important;
+        margin-bottom: 25px !important;
+        padding-bottom: 15px;
+    }
+
+    .registerEvent {
+        display: none;
+    }
+
+    #summaryICS {
+        font-size: 24px;
+    }
+
+    .spacingEvent {
+        padding: 0 16px;
+    }
+
+    .descriptionEvemt {
+        padding: 0 !important;
+    }
+
+    .videoMovile {
+        padding: 0 !important;
+    }
+
+    .containerSpeakerDetailEvent {
+        display: none;
+    }
+
+    .subTitle {
+        padding-top: 15px;
+        text-align: center;
+    }
+
+    .topics {
+        display: none;
+    }
+
+    .borderNormal {
+        margin: 20px 5px;
+        border: 1px solid grey;
+        border-radius: 5px;
+    }
+
+    .borderAzul {
+        border: 1px solid #0093c9 !important;
+    }
+
+    .subTitleGallery {
+        text-align: center;
+    }
+
+    .containerGalleryEvent {
+        width: 100%;
+    }
+
+    .containerGalleryEvent p {
+        padding: 0 10px;
+    }
+
+    .containerImgGallery {
+        padding: 10px 10px 10px 10px !important;
+    }
+
+    .watermarkGalleryEvent {
+        padding: 20px 0;
+    }
+
+    .relatedEventsMovile {
+        padding: 0 !important;
+    }
+
+    .relatedEventsMovile p {
+        padding: 0px 10px !important;
+    }
+
+    .containerTitleEventRelated {
+        padding-left: 10px;
+    }
+
+    .scheduleInformationMapEvent {
+        padding: 35px 10px;
+    }
+
+    .scheduleInformationMapEvent .subTitle {
+        text-align: left !important;
+    }
+
+    .scheduleInformationMapEvent span {
+        color: black;
+    }
+
+    .mapMovileHidden {
+        display: none;
+    }
+
+    .containerDocumentsAndSocialMap {
+        position: inherit;
+        text-align: center;
+        max-width: 260px;
+        border-top:0;
+    }
+
+    .imgEvents {
+        height: auto !important;
+    }
+}
+
+
+
+@media screen and (min-width: 768px) {
+    .detailMovile {
+        display: none;
+    }
+
+    .containerSpeakerDetailEventMovil {
+        display: none;
+    }
+
+    .topicsMovile {
+        display: none;
+    }
+
+    .mapMovileShow {
+        display: none;
+    }
+
+    .imgEvents {
+        height: 190px !important;
+    }
+}
+
+
+
+@media all and (-ms-high-contrast: none),
+(-ms-high-contrast: active) {
+    .containerQuoteAutor p {
+        color: #3281e1;
+        background: none;
+    }
+}
