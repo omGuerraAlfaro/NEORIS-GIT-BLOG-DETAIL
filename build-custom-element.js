@@ -2,9 +2,9 @@ const fs = require('fs-extra');
 const concat = require('concat');
 (async function build() {
   const files = [
-    './dist/search-portlet-neoris/runtime.js',
-    './dist/search-portlet-neoris/polyfills.js',
-    './dist/search-portlet-neoris/main.js'
+    './dist/angular-portlet-blog-detail/runtime.js',
+    './dist/angular-portlet-blog-detail/polyfills.js',
+    './dist/angular-portlet-blog-detail/main.js'
   ];
   await fs.ensureDir('angular-elements-build');
   await fs.removeSync('angular-elements-build/blog-detail.js');
